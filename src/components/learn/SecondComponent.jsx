@@ -1,5 +1,9 @@
 const SecondComponent = () => {
-  return <div>Second Component</div>;
+  return (
+    <div>
+      Second Component
+    </div>
+  )
 };
 
 const ThirdComponent = () => {
